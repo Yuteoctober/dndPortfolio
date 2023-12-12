@@ -85,16 +85,16 @@ export const projectDescriptions = [
   {
     picContext: `${stickynotes}`,
     piccontext: `Organize your tasks`,
-    title1: "Sticky Note Magic & To-Do Mastery 🌈📝",
+    title1: "Sticky Note Magic & To-Do Mastery 📝",
     text1: "Welcome to your virtual canvas! Create colorful sticky notes with topics and descriptions. Express yourself with a spectrum of colors, making organization a vibrant and delightful experience. Supercharge your productivity with dynamic to-do lists on customizable cards. Add up to 5 tasks per card and triumphantly cross them off as you conquer each one. Unleash your creativity!",
     
-    title2: "Edit & Delete Fiesta + Locking Feature 🎉🔒",
-    text2: "Oops, made a typo or want to update? Enter the edit mode and wield your editing powers! Delete with confidence, and watch your notes transform effortlessly. It's your space, and perfection is just a click away. Introducing the locking feature—your card's personal bodyguard! Prevent accidental shuffles by locking your cards in place. Enjoy stability in chaos and focus on what truly matters. Your notes, your rules!",
+    title2: "Edit, Delete and Locking Feature",
+    text2: "Oops, made a typo or want to update? Enter the edit mode and wield your editing powers! Delete with confidence, and watch your notes transform effortlessly. It's your space, and perfection is just a click away. Introducing the locking feature your card's personal bodyguard! Prevent accidental shuffles by locking your cards in place. Enjoy stability in chaos and focus on what truly matters. Your notes, your rules!",
     
-    title3: "Profile Pic Makeover & Sync Across Devices 🖼️🔄",
+    title3: "Profile Pic Makeover & Sync Across Devices",
     text3: "Time for a digital facelift! Change your profile picture with a breeze. Express your personality and keep it fresh. A simple touch to make your app experience uniquely yours! Behold the magic of a full-stack app! Seamlessly sync your notes across devices in real time. Your notes follow you wherever you go. Experience the joy of continuity and stay in the loop effortlessly!",
     
-    title4: "Everything Integrated: Real-Time Wizardry 🚀🌐",
-    text4: "Your Sticky Note app is a powerhouse of features! From creative organization to to-do list mastery, from edit and delete fiestas to a locking feature for stability—this app has it all. Elevate your experience with profile pic makeovers and the magic of syncing across devices in real time. Everything is seamlessly integrated, offering you a delightful and efficient note-taking journey. Experience the magic today!"
+    title4: "Everything Integrated: Real-Time Wizardry",
+    text4: "Your Sticky Note app is a powerhouse of features! From creative organization to to-do list mastery, from edit, delete to a locking feature for stability, this app has it all. Elevate your experience with profile pic makeovers and the magic of syncing across devices in real time. Everything is seamlessly integrated, offering you a delightful and efficient note-taking journey. Experience the magic today!"
   }
 ];
