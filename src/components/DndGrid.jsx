@@ -10,10 +10,7 @@ import { BsFillPencilFill,
     BsFillKeyboardFill,
     BsPersonFill,
     BsFillPatchQuestionFill,
-    Bs9CircleFill  } from "react-icons/bs";
-
-
-      
+    Bs9CircleFill  } from "react-icons/bs"
 
 const DndGrid = ({darkMode, setMedal1, setMedal2, 
         setMedal3, setMedal4, setMedal5, setMedal6, setMedal7}) => {
