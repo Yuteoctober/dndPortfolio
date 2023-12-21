@@ -257,7 +257,7 @@ function App() {
     picContext: projectDescriptions[6].picContext,
     piccontext: projectDescriptions[6].piccontext,
     cardTxt: 'Fullstack StickyNotes',
-    href: 'https://workflow-sticky-note.netlify.app/',
+    href: 'https://fullstack-stickynotes.netlify.app/',
     target: '_blank',
     rel: 'noopener noreferrer',
     style: '#85c3ab',
