@@ -18,7 +18,7 @@ import weatherbg from './Images/weatherbg.png'
 import wikibg from './Images/wikibg.jpg'
 import typingbg from './Images/typingbg.jpg'
 import userauthbg from './Images/forest.jpg'
-import slottobg from './Images/slottobg.jpg'
+import opennft from './Images/dwdwd.jpg'
 import stickynotesBg from './Images/stickynotesBg.jpg'
 
 
@@ -223,7 +223,7 @@ function App() {
   const medal6Props = {
     setMedal: setMedal6,
     darkMode: darkMode,
-    img: slottobg,
+    img: opennft,
     title1: projectDescriptions[5].title1,
     text1: projectDescriptions[5].text1,
     title2: projectDescriptions[5].title2,
@@ -234,12 +234,12 @@ function App() {
     text4: projectDescriptions[5].text4,
     picContext: projectDescriptions[5].picContext,
     piccontext: projectDescriptions[5].piccontext,
-    cardTxt: 'LUCKY DRAW APP',
-    href: 'https://yuteoctober.github.io/LottoApp/',
+    cardTxt: 'NFT E-commerce',
+    href: 'https://opennft.netlify.app/',
     target: '_blank',
     rel: 'noopener noreferrer',
     style: '#85c3ab',
-    color: 'white',
+    color: 'black',
   };
 
   const medal7Props = {
@@ -330,8 +330,8 @@ function App() {
     setMedal: setMedal6,
     cardRotate: 'card_rotate6',
     cardNumber: 'card_six',
-    cardContent: "Random your lucky numbers.",
-    cardTxt: 'SLOTTER',
+    cardContent: "E-commerce NFT web app",
+    cardTxt: 'OpenNFT',
     deg: -9,
     darkMode: darkMode,
   };

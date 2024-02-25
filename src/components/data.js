@@ -3,7 +3,7 @@ import weatherMath from '../Images/Weather.png'
 import wikipediaProp from '../Images/Wikipedia.png'
 import typingTimer from '../Images/typing.png'
 import userAuthFirebase from '../Images/userAuth.png'
-import slotto from '../Images/slotto.png'
+import opennft from '../Images/opennft.png'
 import stickynotes from '../Images/notes.png'
 
 
@@ -71,16 +71,16 @@ export const projectDescriptions = [
     text4: "Our app provides users with a seamless and trustworthy way to access and manage their accounts. It's designed to offer peace of mind when it comes to online security. With our User Authentication App, your digital identity is fortified and ready to withstand the challenges of the online world."
   },
   {
-    picContext: `${slotto}`,
-    piccontext: `Based number calculation by user's inputs`,
-    title1: "Experience the Thrill of Chance",
-    text1: "Slotto is an exhilarating web application that brings the excitement of chance and luck-based games to your fingertips. Dive into a world where randomness and anticipation create a unique gaming experience.",
-    title2: "Set Your Number Range 🎲",
-    text2: "Customize your gameplay by selecting a range of numbers. Choose a minimum and maximum value to define the scope of your luck. The intuitive interface ensures a seamless and user-friendly number selection process.",
-    title3: "Unleash the Power Mode ⚡",
-    text3: "Take your luck to the next level with the 'Power' mode. Activate it to add an extra layer of unpredictability to the game. Brace yourself for even more thrilling and unexpected outcomes in each roll.",
-    title4: "Seamless and Trustworthy Protection",
-    text4: "Our app provides users with a seamless and trustworthy way to access and manage their accounts. With our User Authentication App, your digital identity is fortified and ready to withstand the challenges of the online world."
+    "picContext": `${opennft}`,
+    "piccontext": "Experience sleek design and responsive layout for seamless browsing across all devices.",
+    "title1": "User-Centric Design",
+    "text1": "Our platform boasts a user-centric design crafted to provide an immersive and intuitive browsing experience. From desktop to mobile devices, enjoy a seamless interface designed to showcase NFTs beautifully.",
+    "title2": "Responsive Layout",
+    "text2": "Experience the flexibility of a responsive layout that adapts effortlessly to various screen sizes. Whether you're browsing on a laptop, tablet, or smartphone, our platform ensures optimal viewing and interaction.",
+    "title3": "Filter NFTs by Number",
+    "text3": "Effortlessly filter NFTs based on numerical attributes such as edition number, price range, or rarity level. Tailor your browsing experience to discover NFTs that match your preferences and criteria.",
+    "title4": "Filter NFTs by Rank",
+    "text4": "Explore NFTs based on their rank or popularity to discover trending and highly sought-after digital collectibles. Our ranking system helps you navigate through the vast collection of NFTs and find the gems that resonate with you."
   },
   {
     picContext: `${stickynotes}`,

@@ -64,10 +64,10 @@ const DndGrid = ({darkMode, setMedal1, setMedal2,
   },
   {
     id: 6,
-    title: 'Slotto',
+    title: 'OpenNFT',
     icon: <Bs9CircleFill />,
     color: '#dfc67e',
-    text: 'Random your lucky numbers.',
+    text: 'E-commerce NFT web app.',
     setMedal: setMedal6,
     cardnum:'six'
   },
