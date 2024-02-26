@@ -18,7 +18,7 @@ import weatherbg from './Images/weatherbg.png'
 import wikibg from './Images/wikibg.jpg'
 import typingbg from './Images/typingbg.jpg'
 import userauthbg from './Images/forest.jpg'
-import opennft from './Images/dwdwd.jpg'
+import opennft from './Images/nftbg.png'
 import stickynotesBg from './Images/stickynotesBg.jpg'
 
 
@@ -239,7 +239,7 @@ function App() {
     target: '_blank',
     rel: 'noopener noreferrer',
     style: '#85c3ab',
-    color: 'black',
+    color: 'white',
   };
 
   const medal7Props = {
