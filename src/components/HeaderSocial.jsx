@@ -13,35 +13,35 @@ import { AnimatePresence, motion } from "framer-motion";
 
 function HeaderSocial({ darkMode, setDarkMode, setGridMode, gridMode, disableGrid}) {
 
-  useEffect(() => { //set theme mode base on time 6AM to 6PM
-    const now = new Date();
+  // useEffect(() => { //set theme mode base on time 6AM to 6PM
+  //   const now = new Date();
 
-      const localTime = now.toLocaleTimeString();
-      console.log(localTime)
-      console.log(darkMode)
+  //     const localTime = now.toLocaleTimeString();
+  //     console.log(localTime)
+  //     console.log(darkMode)
 
-      const numTime = localTime.split(':')
-      console.log(numTime)
+  //     const numTime = localTime.split(':')
+  //     console.log(numTime)
 
-      const IntNumTime = parseInt(numTime[0]) // hour
-      console.log(IntNumTime)
+  //     const IntNumTime = parseInt(numTime[0]) // hour
+  //     console.log(IntNumTime)
 
-      const lastPart = numTime[numTime.length - 1]
-      const AmOrPm = lastPart.split(' ')[1] // AM or PM
-      console.log(AmOrPm)
+  //     const lastPart = numTime[numTime.length - 1]
+  //     const AmOrPm = lastPart.split(' ')[1] // AM or PM
+  //     console.log(AmOrPm)
 
-      if (
-        (IntNumTime > 5 && IntNumTime < 12 && AmOrPm === 'AM') || 
-        (IntNumTime === 12 && AmOrPm === 'PM') ||
-        (IntNumTime < 6 && AmOrPm === 'PM')
-      ) {
-        setDarkMode(true);
-        changeThemeColor('#171717');
-      } else {
-        setDarkMode(false);
-        changeThemeColor('#333232');
-      }
-    }, []);
+  //     if (
+  //       (IntNumTime > 5 && IntNumTime < 12 && AmOrPm === 'AM') || 
+  //       (IntNumTime === 12 && AmOrPm === 'PM') ||
+  //       (IntNumTime < 6 && AmOrPm === 'PM')
+  //     ) {
+  //       setDarkMode(true);
+  //       changeThemeColor('#171717');
+  //     } else {
+  //       setDarkMode(false);
+  //       changeThemeColor('#333232');
+  //     }
+  //   }, []);
 
 
   const changeThemeColor = (newColor) => { // change html top bar color
